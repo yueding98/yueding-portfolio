@@ -32,7 +32,6 @@ Ideas:
 3. Add grid lines to provide the reference to the percentage and number.
 4. Adjust the x-axis of the right graph from 0-400k to 0-225k. (However, it didn't perform as I expected, so I wouldn't take this idea in my final solution.)
 
-
 # 4. Test the solution
 Question list:
 1. Can you tell me what this graph is about?
