@@ -79,5 +79,7 @@ I further developed my ideas to redesign this visualization after getting feedba
 3. Keep the original x-axis in the right graph. According to the criterion method of perceptibility, cutting down the axis doesn't make any sense and will cause a illogical comparison. We can use the interactive method to show the specific number in Tableau. 
 4. Rewrite the title and x-axis label to give more information about the graph, including topic, subjects, year, and percentage notation. 
 
-# 6. Problems and reflection
-Limited by technical reasons, I cannot show the total number at the end of each bar in both graphs. I want to add a number to help the audience find the number in a easier way. We can achieve this goal by the interactive version, but cannot if the graph is presented as an image. 
+# 6. Problem and reflection
+1. Limited by technical reasons, I cannot show the total number at the end of each bar in both graphs. I want to add a number to help the audience find the number in a easier way. We can achieve this goal by the interactive version, but cannot if the graph is presented as an image. 
+2. So many rows here cannot easily provide information in a clear way. It's like a delemma to choose completeness or clearness. However, I choose completeness in this case since the visualization serves the purpose, which is to present the whole EU market. 
+3. The layout of Tableau Public inserted looks weird. I have no idea how to adjust it to a proper looking. 
