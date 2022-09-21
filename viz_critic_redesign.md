@@ -1,9 +1,9 @@
-# Step 1: Find a data visualization
+# 1. The original data visualization
 The data visualization used in this assignment is from European Environment Agency (link: https://www.eea.europa.eu/data-and-maps/figures/new-electric-vehicles-by-country). The original data visualization shows as follow:
 
 ![My Image](download.png)
 
-# Step 2: Critique the data visualization
+# 2. Critique the data visualization
 Question1: Describe your overall observations about the data visualization here.  What stood out to you?  What did you find worked really well?  What didn't?  What, if anything, would you do differently?  
 
 In this data visualization, I noticed Norway is the toppest country with the highest percentage of newly registered electric cars in 2020, followed by Iceland. I found that 2 things worked well here. 
@@ -21,7 +21,7 @@ Question3: Final thoughts: how successful what this method at evaluating the dat
 
 This method is successful at a general level of content and information. It mainly focuses on how accurate and understandable the information provided in the graph. Absolutely, it should be the most important factor to measure the success of a visualization because it is the goal. However, the measuring method should involve some factors with details and specific standards, which indicates how to measure usefulness, truthfulness, intuitiveness, and so on. People have different standard in their mind, and pay attention to different aspects when measuring a visualization. I would recommend to add specific visualizing aspects when asking each criterion. For example, when asking aesthetics, I would give a hint to care about the usage of colors. When asking intuitiveness, I would give a hint to care about the title, name of axises, and necessary notation in the graph. 
 
-# Step 3: Sketch out a solution
+# 3. Sketch out a solution
 Here is the sketching of the redesign idea:
 
 ![My Image](sketch.jpg)
@@ -30,10 +30,10 @@ Ideas:
 1. Change the color from green to blue on the right graph in order to make it different from the information presented on the left. 
 2. Move the country axis from the left to the center to make it easier to match bars to countries. 
 3. Add grid lines to provide the reference to the percentage and number.
-4. 
+4. Adjust the x-axis of the right graph from 0-400k to 0-225k. (However, it didn't perform as I expected, so I wouldn't take this idea in my final solution.)
 
 
-# Step four: Test the solution
+# 4. Test the solution
 Question list:
 1. Can you tell me what this graph is about?
 2. Is there anything you find confusing, in other word, you spend some seconds thinking about the information?
@@ -44,7 +44,7 @@ Feedback from interviews
 
 Student A, mid 20's
 1. Can you tell me what this graph is about?
-It shows the percentage and the number of newly registered electric vehicles in the EU countries in 2020. There are two kinds of vehicles: battery electric vehicles and plug-in hybrid electric vehicles. 
+It shows the percentage and the number of newly registered electric vehicles in the EU countries. There are two kinds of vehicles: battery electric vehicles and plug-in hybrid electric vehicles. 
 2. Is there anything you find confusing, in other word, you spend some seconds thinking about the information?
 There is no need to use two schemes of color because colors indicate the same meaning in both two graphs. There are so many rows and the number of newly registered vehicles is very small so it cannot be presented very clearly. 
 3. Who do you think is the intended audience for this?
@@ -62,12 +62,22 @@ The audience is people who care about and are interested in the EU EV market, fo
 4. What would you like to change to make it more sense?
 The label of x-axis in the left graph can be notated as "%" instead of "percentage", more understandable. 
 
-# Step 5: Build your solution
+# 5. Build your solution
+According to my ideas and feedbacks from interviewees, my final solution is presented as follow:
 
+(image version)
 
+![My Image](Dashboard image.png)
 
+(interactive version from Tableau Public)
 
+<div class='tableauPlaceholder' id='viz1663721700215' style='position: relative'><noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;re&#47;redesign-NewRegisteredElectricCars&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='redesign-NewRegisteredElectricCars&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;re&#47;redesign-NewRegisteredElectricCars&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='zh-CN' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1663721700215');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} else { vizElement.style.width='100%';vizElement.style.height='1027px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
 
+I further developed my ideas to redesign this visualization after getting feedbacks from interviewees. 
+1. Change the color back from blue to green, because colors in both graphs represent the same information, which is battery electric vehicles and plug-in hybrid electric vehicles. Blue takes the audience more time to think about the meaning of it. 
+2. Keep all countries in the dataset. Considering the targeted audience and the purpose of this visualization, I realize that one of the most important thing is to keep the completeness of the information because our purpose is to show an overview of the EU market rather than focusing on the top. In addition, it's hard to decide the selection criteria if I want to reduce the presented countries. According to the criterion methods mentioned before, I keep all countries meeting the requirement of usefulness and completeness.
+3. Keep the original x-axis in the right graph. According to the criterion method of perceptibility, cutting down the axis doesn't make any sense and will cause a illogical comparison. We can use the interactive method to show the specific number in Tableau. 
+4. Rewrite the title and x-axis label to give more information about the graph, including topic, subjects, year, and percentage notation. 
 
-
-
+# 6. Problems and reflection
+Limited by technical reasons, I cannot show the total number at the end of each bar in both graphs. I want to add a number to help the audience find the number in a easier way. We can achieve this goal by the interactive version, but cannot if the graph is presented as an image. 
