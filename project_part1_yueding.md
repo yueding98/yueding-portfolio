@@ -12,14 +12,17 @@ Resolution: For investors, countries with a high R&D capacity are potential to i
 ## Sketching
 Below are some initial sketches of the data visualization in this project.
 
+### Dataviz 1
 The first graph will be a bar chart to present countries sorted by expenditures on R&D (million US dollars) as an overview of the world's top level of R&D expenditures. (The below sketching is a screenshot of OECD data)
 
 ![My Image](part1_sketching1.png)
 
+### Dataviz 2
 The second graph will be a scatterplot to present the distribution of countries showing the relationship between the high-tech exports and R&D expenditures (both of them are notated as percentage), and the size of points indicates the number of researchers. 
 
 ![My Image](part1_sketching2.jpg)
 
+### Dataviz 3
 The third graph will focus on the trends of 5 Asian developing countries with the highest R&D expenditures. The purpose of this graph is to present progress that the Asian countries made and provide insights of their innovation potential in the future. 
 
 ![My Image](part1_sketching3.jpg)
