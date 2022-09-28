@@ -14,9 +14,15 @@ Below are some initial sketches of the data visualization in this project.
 
 The first graph will be a bar chart to present countries sorted by expenditures on R&D (million US dollars) as an overview of the world's top level of R&D expenditures. (The below sketching is a screenshot of OECD data)
 
+![My Image](part1_sketching1.png)
+
 The second graph will be a scatterplot to present the distribution of countries showing the relationship between the high-tech exports and R&D expenditures (both of them are notated as percentage), and the size of points indicates the number of researchers. 
 
+![My Image](part1_sketching2.jpg)
+
 The third graph will focus on the trends of 5 Asian developing countries with the highest R&D expenditures. The purpose of this graph is to present progress that the Asian countries made and provide insights of their innovation potential in the future. 
+
+![My Image](part1_sketching3.jpg)
 
 
 ## Reflection
@@ -25,15 +31,20 @@ The third graph will focus on the trends of 5 Asian developing countries with th
 2. Another thing I need to improve is to make my story line clear. At present, these graphs seem to be independent. More details and facts should be added into the story.
 
 
-
 ## Data
 Data used in this project is mainly from World Bank and OECD database. 
 
-| Data | Description | Source |
-| --- | --- |
-| High-technology exports | This dataset presents high-technology exports (% of manufactured exports) by country and year. | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?most_recent_year_desc=true&view=chart) |
-| Gross domestic spending on R&D | Gross domestic spending on R&D is defined as the total expenditure (current and capital) on R&D carried out by all resident companies, research institutes, university and government laboratories, etc., in a country. It includes R&D funded from abroad, but excludes domestic funds for R&D performed outside the domestic economy.  | [OECD](https://data.oecd.org/rd/gross-domestic-spending-on-r-d.htm) |
-| Researchers | Researchers are professionals engaged in the conception or creation of new knowledge, products, processes, methods and systems, as well as in the management of the projects concerned. This indicator is measured in per 1 000 people employed and in number of researchers; the data are available as a total and broken down by gender. | [OECD](https://data.oecd.org/rd/researchers.htm#indicator-chart) |
+1. High-technology exports [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?most_recent_year_desc=true&view=chart) 
+
+This dataset presents high-technology exports (% of manufactured exports) by country and year.
+
+2. Gross domestic spending on R&D [OECD](https://data.oecd.org/rd/gross-domestic-spending-on-r-d.htm)
+
+Gross domestic spending on R&D is defined as the total expenditure (current and capital) on R&D carried out by all resident companies, research institutes, university and government laboratories, etc., in a country. It includes R&D funded from abroad, but excludes domestic funds for R&D performed outside the domestic economy.
+
+3. Researchers [OECD](https://data.oecd.org/rd/researchers.htm#indicator-chart) 
+
+Researchers are professionals engaged in the conception or creation of new knowledge, products, processes, methods and systems, as well as in the management of the projects concerned. This indicator is measured in per 1 000 people employed and in number of researchers; the data are available as a total and broken down by gender.
 
 
 ## Medium and method
