@@ -28,21 +28,21 @@ The third graph will focus on the trends of 5 Asian developing countries with th
 ## Reflection
 1. I want to add some graphs like stacked plots to show the industries in detail, but I am still looking for official public data. 
 
-2. Another thing I need to improve is to make my story line clear. At present, these graphs seem to be independent. More details and facts should be added into the story.
+2. Another thing I need to improve is to make my story line clear. At present, these graphs seem to be independent. More details and facts should be added into the story in the final version. 
 
 
 ## Data
 Data used in this project is mainly from World Bank and OECD database. 
 
-1. High-technology exports [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?most_recent_year_desc=true&view=chart) 
+1. High-technology exports: [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?most_recent_year_desc=true&view=chart) 
 
 This dataset presents high-technology exports (% of manufactured exports) by country and year.
 
-2. Gross domestic spending on R&D [OECD](https://data.oecd.org/rd/gross-domestic-spending-on-r-d.htm)
+2. Gross domestic spending on R&D: [OECD](https://data.oecd.org/rd/gross-domestic-spending-on-r-d.htm)
 
 Gross domestic spending on R&D is defined as the total expenditure (current and capital) on R&D carried out by all resident companies, research institutes, university and government laboratories, etc., in a country. It includes R&D funded from abroad, but excludes domestic funds for R&D performed outside the domestic economy.
 
-3. Researchers [OECD](https://data.oecd.org/rd/researchers.htm#indicator-chart) 
+3. Researchers: [OECD](https://data.oecd.org/rd/researchers.htm#indicator-chart) 
 
 Researchers are professionals engaged in the conception or creation of new knowledge, products, processes, methods and systems, as well as in the management of the projects concerned. This indicator is measured in per 1 000 people employed and in number of researchers; the data are available as a total and broken down by gender.
 
