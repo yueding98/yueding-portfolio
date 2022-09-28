@@ -14,5 +14,6 @@ Data for the government debt analysis is from OECD. Visit [here](dataviz2.md) to
 # Visualization Critique and Redesign
 [Here](viz_critic_redesign.md) is my critique and redesign idea to the newly registered electric cars of EU countries in 2020.
 
-# Final Project Part 1
-[Here]
+# Final Project 
+## Part 1
+[Here](project_part1_yueding.md) is my part 1 preparation for final project, an initial outline for the story telling of spending on R&D. 
