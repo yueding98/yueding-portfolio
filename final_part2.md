@@ -48,12 +48,25 @@ What new idea do you have after reading this visualization?
 |What new idea do you have after reading this visualization?|I notice that US is always the country that has the most spending on R&D, and China just follows behind and increases very fast. I am looking forward to more details on these two countries. |I am curious about the spending by sectors and research types in order to analyze the potential policies.|Spending of China grows so fast for the past decades, and I want to know if there is any possibility to reach the level of US.|
 
 ### Graph 4:
-|Question|User A| User B | User C |
+|Question| User A| User B | User C |
 |--|--|--|--|
 |What do you think the graph is talking about?| The comparison of China and US in the past 20 years, as well as the research types. | Comparing the spending of China and US, I can see the gap between the two countries in details. | Comparison of US and China by the research type. |
-|Do you think the graph can support the main idea of this part/the entire topic?| I think so, it's obvious to see the gap between China and US, and |||
-|What new idea do you have after reading this visualization?||||
+|Do you think the graph can support the main idea of this part/the entire topic?| I think so, it's obvious to see the gap between China and US, not only for the total value, but also for each category. |My concern is whether the measure unit is the same for the two country though it lools make sense. I think it would be better to make is clear. |I find it's hard to compare each stack except the experimental development.|
+|What new idea do you have after reading this visualization?|Does this input gap reflect any output result? By now we only focus on the spending gap, but as audience, I want to go further to reveal the result of the spending input. |China has more input in experimental development than US while for another two types it falls behind. What is the role of applied and basic research, and how do these types contribute to the innovation and technology development? |What is the difference of applied research, basic research and experimental development? And what is the importance of each of them in practice? I am wondering why we focus on the comparison by research type|
 
+### Overview
+|User A|User B|User C|
+|--|--|--|
+|The topic is serious and boring if you only focus on the facts and the data. I think you can put more pictures and informative figures or words into your work to make it attractive. | I believe your project can be very useful for our academic researcher on this field. It also gives me a good example to apply data visualization to my essay and research report in the future. My advice for it is to deep into the fact behind the data rather than just presenting what you have. | The visualization is clear, which will be appreciated in business. In my opinion, you can highlight some significant data to emphasize the importance to the audience. Because there is so much data and the audience can be lost if there is no guide or highlight. |
 
 ## Plan to Improve
+Taking all feedback into consideration, I plan to improve my final project in the following points.
+#### 1. Add an graph to show the output of R&D. 
+The interviewees thought that just showing the gap and comparison is not powerful to make any useful decision. So I consider to add a graph to visualize the comparison of patent, which can be regarded as an aspect of the output of R&D. 
+#### 2. Add more words to make the terms clear and comprehensive.
+In order to be understandable, especially for the public and policy-makers who are not very familiar with this topic, it would be better if I give some narrative and vivid explanations of this topic and the metric method. 
+#### 3. Highlight some important numbers to attract the audience's attention.
+I agree with what user A and C said, that highlighting the numbers outside the graph can work well to attract the audience to think and to guide the story. 
 
+# End
+### Back to the [main]()
