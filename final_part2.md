@@ -44,7 +44,7 @@ What new idea do you have after reading this visualization?
 |Question|User A| B | C |
 |--|--|--|--|
 |What do you think the graph is talking about?|Global comparison of R&D spending. |Gross domestic spending on R&D by percent and total millions of dollars of some top countries. | Spending on R&D in 2019 in a global perspective, and trends of R&D spending by year of the top 5 countries. |
-|Do you think the graph can support the main idea of this part/the entire topic?|Yes, it gives a comprehensive overview at the very beginning to show the global comparison of countries. |Yes, for me it works. |The first global map is a little tricky for me. It is not complete, and not comparable. |
+|Do you think the graph can support the main idea of this part/the entire topic?|Yes, it gives a comprehensive overview at the very beginning to show the global comparison of countries. |Yes, for me it works. |The first global map is a little tricky for me. It is not complete and comparable. And the second bar chart consist of too many country unnecessarily. |
 |What new idea do you have after reading this visualization?|I notice that US is always the country that has the most spending on R&D, and China just follows behind and increases very fast. I am looking forward to more details on these two countries. |I am curious about the spending by sectors and research types in order to analyze the potential policies.|Spending of China grows so fast for the past decades, and I want to know if there is any possibility to reach the level of US.|
 
 ### Graph 4:
@@ -67,6 +67,8 @@ The interviewees thought that just showing the gap and comparison is not powerfu
 In order to be understandable, especially for the public and policy-makers who are not very familiar with this topic, it would be better if I give some narrative and vivid explanations of this topic and the metric method. 
 #### 3. Highlight some important numbers to attract the audience's attention.
 I agree with what user A and C said, that highlighting the numbers outside the graph can work well to attract the audience to think and to guide the story. 
+#### 4. Remove unnecessary elements
+I was trying to show as much as information as I could in the first part of cross nation overview. But it seems that it is of need to show too much information which can cause some unclear and misleading problem. 
 
 # End
 ### Back to the [main](README.md)
