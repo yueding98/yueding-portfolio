@@ -4,7 +4,7 @@ For user research, I will apply Shorthand to create a draft of my final project,
 
 I built some data visualization using Tableau and Flourish to presents the audience in the user research to give them a more specific image of the visualization effects. 
 
-Here is my wireframe built by Shorthand. It basically includes some text and rough graphs created by Tableau and Flourish. Using Shorthand to build a story framework is not as easy as I expected. I am still trying to find a better way to present the logic of the story especially it's not an interesting topic.
+Here is my wireframe built by [Shorthand](https://preview.shorthand.com/NE6TjiPP2bE6Q50o). It basically includes some text and rough graphs created by Tableau and Flourish. Using Shorthand to build a story framework is not as easy as I expected. I am still trying to find a better way to present the logic of the story especially it's not an interesting topic.
 
 ## User Research Protocol
 ### Target Audience
