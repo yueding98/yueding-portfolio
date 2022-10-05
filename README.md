@@ -19,4 +19,4 @@ Data for the government debt analysis is from OECD. Visit [here](dataviz2.md) to
 [Here](project_part1_yueding.md) is my part 1 preparation for the final project, an initial outline for the story telling of spending on R&D. 
 
 ## Part 2
-[Here](project_part2.md) is my part 2 preparation for the final project, a user research report on the wireframe of R&D spending. 
+[Here](final_part2.md) is my part 2 preparation for the final project, a user research report on the wireframe of R&D spending. 
