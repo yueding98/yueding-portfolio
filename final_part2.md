@@ -69,6 +69,8 @@ In order to be understandable, especially for the public and policy-makers who a
 I agree with what user A and C said, that highlighting the numbers outside the graph can work well to attract the audience to think and to guide the story. 
 #### 4. Remove unnecessary elements
 I was trying to show as much as information as I could in the first part of cross nation overview. But it seems that it is of need to show too much information which can cause some unclear and misleading problem. 
+#### 5. Come up with practical call and policy on this analysis
+I am still thinking about the call and suggestion at the end of the project. It's a high-level work and I need to ask for advice from people who expertise at this topic to make it feasible and reasonable.
 
 # End
 ### Back to the [main](README.md)
