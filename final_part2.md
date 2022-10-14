@@ -41,23 +41,13 @@ What new idea do you have after reading this visualization?
 
 ## Feedback
 ### Graph 1 to 3: 
-|Question|User A| B | C |
-|--|--|--|--|
-|What do you think the graph is talking about?|Global comparison of R&D spending. |Gross domestic spending on R&D by percent and total millions of dollars of some top countries. | Spending on R&D in 2019 in a global perspective, and trends of R&D spending by year of the top 5 countries. |
-|Do you think the graph can support the main idea of this part/the entire topic?|Yes, it gives a comprehensive overview at the very beginning to show the global comparison of countries. |Yes, for me it works. |The first global map is a little tricky for me. It is not complete and comparable. And the second bar chart consist of too many country unnecessarily. |
-|What new idea do you have after reading this visualization?|I notice that US is always the country that has the most spending on R&D, and China just follows behind and increases very fast. I am looking forward to more details on these two countries. |I am curious about the spending by sectors and research types in order to analyze the potential policies.|Spending of China grows so fast for the past decades, and I want to know if there is any possibility to reach the level of US.|
+![My Image](table1.png)
 
 ### Graph 4:
-|Question| User A| User B | User C |
-|--|--|--|--|
-|What do you think the graph is talking about?| The comparison of China and US in the past 20 years, as well as the research types. | Comparing the spending of China and US, I can see the gap between the two countries in details. | Comparison of US and China by the research type. |
-|Do you think the graph can support the main idea of this part/the entire topic?| I think so, it's obvious to see the gap between China and US, not only for the total value, but also for each category. |Not enough. I prefer to add some policies to explain the graph that becuase of the support from which policies US and China increase their input in these research. In addition, my concern is whether the measure unit is the same for the two country though it lools make sense. I think it would be better to make is clear. |I find it's hard to compare each stack except the experimental development.|
-|What new idea do you have after reading this visualization?|Does this input gap reflect any output result? By now we only focus on the spending gap, but as audience, I want to go further to reveal the result of the spending input. |China has more input in experimental development than US while for another two types it falls behind. What is the role of applied and basic research, and how do these types contribute to the innovation and technology development? |What is the difference of applied research, basic research and experimental development? And what is the importance of each of them in practice? I am wondering why we focus on the comparison by research type|
+![My Image](table2.png)
 
 ### Overview
-|User A|User B|User C|
-|--|--|--|
-|The topic is serious and boring if you only focus on the facts and the data. I think you can put more pictures and informative figures or words into your work to make it attractive. | I believe your project can be very useful for our academic researcher on this field. It also gives me a good example to apply data visualization to my essay and research report in the future. My advice for it is to deep into the fact behind the data rather than just presenting what you have. | The visualization is clear, which will be appreciated in business. In my opinion, you can highlight some significant data to emphasize the importance to the audience. Because there is so much data and the audience can be lost if there is no guide or highlight. |
+![My Image](table3.png)
 
 ## Plan to Improve
 Taking all feedback into consideration, I plan to improve my final project in the following points.
