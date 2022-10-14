@@ -24,3 +24,6 @@ Data for the government debt analysis is from OECD. Visit [here](dataviz2.md) to
 
 ### Part 3
 [Here](final_part3.md) is the final part of the preparation for the final project, a description about how I narrow the topic, specify the target audience and finalize the project. 
+
+### Final Project
+[Here](https://carnegiemellon.shorthandstories.com/r-d-in-china-now-and-future/index.html) is the project published using Shorthand. 
