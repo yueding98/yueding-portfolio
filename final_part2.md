@@ -76,4 +76,10 @@ I am still thinking about the call and suggestion at the end of the project. It'
 ### Previous work: 
 [Part 1](project_part1_yueding.md)
 
+### Follow-up work:
+
+[Part 2](final_part2.md)
+
+[Final project](https://carnegiemellon.shorthandstories.com/r-d-in-china-now-and-future/index.html)
+
 ### Back to the [portfolio page](README.md)
