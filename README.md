@@ -15,8 +15,12 @@ Data for the government debt analysis is from OECD. Visit [here](dataviz2.md) to
 [Here](viz_critic_redesign.md) is my critique and redesign idea to the newly registered electric cars of EU countries in 2020.
 
 ## Final Project 
+
 ### Part 1
 [Here](project_part1_yueding.md) is my part 1 preparation for the final project, an initial outline for the story telling of spending on R&D. 
 
 ### Part 2
 [Here](final_part2.md) is my part 2 preparation for the final project, a user research report on the wireframe of R&D spending. 
+
+### Part 3
+[Here](final_part3.md) is the final part of the preparation for the final project, a description about how I narrow the topic, specify the target audience and finalize the project. 
