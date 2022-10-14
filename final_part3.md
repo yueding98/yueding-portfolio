@@ -39,7 +39,16 @@ Previous work:
 [Part 2](final_part2.md)
 
 ## END
+Final Project:
 
-Back to the [main](README.md)
+[R&D in China](https://carnegiemellon.shorthandstories.com/r-d-in-china-now-and-future/index.html)
+
+Previous work: 
+
+[Part 1](project_part1_yueding.md)
+
+[Part 2](final_part2.md)
+
+Back to the [portfolio page](README.md)
 
 
