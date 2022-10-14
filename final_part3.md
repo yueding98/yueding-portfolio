@@ -1,5 +1,5 @@
 # Part 3: Putting it All Together
-In the previous work, I wireframed the data story in Shorthand and drafted some data visualization using Tableau. Then I got the feedback from both user research and Professor and TA's comments. In the last preparation assignment, I put it all together to modify and redesign my final project to tell a complete story about R&D in China with informative words and graphs. Here is the summary of how I create the final complete project taking all into consideration. 
+In the previous work, I wireframed the data story in Shorthand and drafted some data visualization using Tableau. Then I got the feedback from both user research and Professor and TA's comments. In the last preparation assignment, I put it all together to modify and redesign my final project to tell a complete story about R&D in China with informative words and graphs. Here is the summary of how I create the final complete project taking all into consideration. You can check the final project [here](https://carnegiemellon.shorthandstories.com/r-d-in-china-now-and-future/index.html).
 
 ### Rethink of the target audience
 Both user research and Professor and TA comments mentioned that the target audience is vague and unclear. So I specify the audience as well as the topic in this part. The target audience of this project is policy-makers from China's Department of Science and Technology, and stakeholders from business and academic institutions. My project is to introduce the current situation of China's R&D, and come up with policy recommendations for the future improvement.
@@ -28,6 +28,9 @@ Besides Tableau, I found that it's efficient to show the source of funds and its
 
 ### Wrap-up
 The whole design work requires so many thoughts and concerns. I feel very excited to see my project finally works though the preparation work is very complicated and kind of boring. But I really enjoy the whole process to create a project from zero, and realize that data story is not only about data and design, but also about communication. 
+
+Final Project:
+[R&D in China](https://carnegiemellon.shorthandstories.com/r-d-in-china-now-and-future/index.html)
 
 Previous work: 
 
