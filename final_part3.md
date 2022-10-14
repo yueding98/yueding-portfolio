@@ -29,26 +29,17 @@ Besides Tableau, I found that it's efficient to show the source of funds and its
 ### Wrap-up
 The whole design work requires so many thoughts and concerns. I feel very excited to see my project finally works though the preparation work is very complicated and kind of boring. But I really enjoy the whole process to create a project from zero, and realize that data story is not only about data and design, but also about communication. 
 
-Final Project:
-[R&D in China](https://carnegiemellon.shorthandstories.com/r-d-in-china-now-and-future/index.html)
-
-Previous work: 
-
-[Part 1](project_part1_yueding.md)
-
-[Part 2](final_part2.md)
-
 ## END
-Final Project:
+### Final Project: 
 
 [R&D in China](https://carnegiemellon.shorthandstories.com/r-d-in-china-now-and-future/index.html)
 
-Previous work: 
+### Previous work: 
 
 [Part 1](project_part1_yueding.md)
 
 [Part 2](final_part2.md)
 
-Back to the [portfolio page](README.md)
+### Back to the [portfolio page](README.md)
 
 
