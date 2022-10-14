@@ -63,5 +63,7 @@ The data visualization will be designed by Tableau and Flourish. Both of them ca
 
 [Part 3](final_part3.md)
 
+[Final project](https://carnegiemellon.shorthandstories.com/r-d-in-china-now-and-future/index.html)
+
 
 ### Back to the [portfolio page](README.md)
